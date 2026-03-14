@@ -7,3 +7,5 @@ Displays the grade in the console
 ## Technologies used
 HTML
 JavaScript.
+## Author
+Created by Spinya as part of Week 1 JavaScript practice.
